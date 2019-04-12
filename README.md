@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-After installation you'll need configure the gem with your Learnosity provided credentials.
+After installation you'll need configure the gem with your personal Learnosity provided credentials
 
 ```ruby
 LearnosityUtils.configure do |config|
